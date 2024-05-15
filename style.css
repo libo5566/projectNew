@@ -3,3 +3,12 @@ body{
     color: aqua;
     background-color: antiquewhite;
 }
+.wrapper{
+    width: 120px;
+    margin:  0 auto;
+
+}
+
+.wrapper header nav{
+    display: flex;
+}
